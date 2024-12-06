@@ -48,7 +48,7 @@ export const feedback = [
     id: "feedback-1",
     content:
       "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Mary Kiboma",
+    name: "James Mumo",
     title: "Founder & Leader",
     img: people01,
   },
@@ -56,7 +56,7 @@ export const feedback = [
     id: "feedback-2",
     content:
       "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Samson Kiboma",
+    name: "Samson Mumo",
     title: "Founder & Leader",
     img: people02,
   },
@@ -64,7 +64,7 @@ export const feedback = [
     id: "feedback-3",
     content:
       "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Moses Kiboma",
+    name: "Moses Mumo",
     title: "Founder & Leader",
     img: people03,
   },
@@ -158,22 +158,22 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: instagram,
-    link: "https://twitter.com/Kiboma4",
+    link: "https://twitter.com/Mumo4",
   },
   {
     id: "social-media-2",
     icon: facebook,
-    link: "https://www.facebook.com/kiboma.peter.9",
+    link: "https://www.facebook.com/Mumo.peter.9",
   },
   {
     id: "social-media-3",
     icon: twitter,
-    link: "https://twitter.com/Kiboma4",
+    link: "https://twitter.com/Mumo4",
   },
   {
     id: "social-media-4",
     icon: linkedin,
-    link: "https://www.linkedin.com/in/moses-kiboma-50b677200/",
+    link: "https://www.linkedin.com/in/moses-Mumo-50b677200/",
   },
 ];
 
